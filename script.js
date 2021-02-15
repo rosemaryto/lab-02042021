@@ -2,7 +2,8 @@
     Project: Lab 01: My First JavaScript Application
     Date: 2/4/21
     Author: Rosemary To
-    New Comment
+    This is a new comment
+    
 */
 
 // Declare the variable and collect a number from the user
