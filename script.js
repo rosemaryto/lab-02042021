@@ -2,7 +2,6 @@
     Project: Lab 01: My First JavaScript Application
     Date: 2/4/21
     Author: Rosemary To
-    This is a new comment
     
 */
 
